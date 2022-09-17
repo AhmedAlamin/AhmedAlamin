@@ -3,7 +3,7 @@
 <!--
 **AhmedAlamin/AhmedAlamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<video src='https://www.canva.com/design/DAFMc04d95I/Ln9y1O8ZeOhuAZ5T_xelQg/watch?utm_content=DAFMc04d95I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink.mp4' width=180/> | <video src='video2.mp4' width=180/>
+<video src='https://user-images.githubusercontent.com/18472540/190839683-29c30fde-e063-4adf-90cd-abd856319420.mp4' width=180/> | <video src='video2.mp4' width=180/>
 
 
 - 🔭 I’m currently working on ...
@@ -15,3 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
