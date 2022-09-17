@@ -2,8 +2,7 @@
 
 <!--
 **AhmedAlamin/AhmedAlamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<video src='https://user-images.githubusercontent.com/18472540/190839683-29c30fde-e063-4adf-90cd-abd856319420.mp4' width=180/> | <video src='video2.mp4' width=180/>
+https://user-images.githubusercontent.com/18472540/190839683-29c30fde-e063-4adf-90cd-abd856319420.mp4
 
 
 - 🔭 I’m currently working on ...
