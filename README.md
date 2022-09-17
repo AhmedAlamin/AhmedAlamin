@@ -14,7 +14,7 @@ Currently I am available for hire (remotely, preferabily contracts or 32h/week).
 - Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
 - Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
-<h2>At the moment I am trying to master these topics better and make projects that apply best practices, wish me luck </h2>
+<h2>Work on mastering these topics with best practices ✨</h2>
 
 - master kotlin language 
 - English (Rosita Stone - The American English - Camply in advanced level)
