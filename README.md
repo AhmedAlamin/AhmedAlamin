@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm an android developer with +3 years of experience building and maintaining software.
+I'm an android developer who is passionate about building and maintaining software.
 Highly skilled in communication and collaboration.
 
 Currently I am available for hire (remotely, preferabily contracts or 32h/week).
