@@ -3,7 +3,7 @@
 <!--
 **AhmedAlamin/AhmedAlamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![gif from nerdy.dev](https://www.canva.com/design/DAFMc04d95I/Ln9y1O8ZeOhuAZ5T_xelQg/watch?utm_content=DAFMc04d95I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink?raw=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
