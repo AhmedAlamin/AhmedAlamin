@@ -14,6 +14,12 @@ Currently I am available for hire (remotely, preferabily contracts or 35h/week).
 - Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
 - Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
+
+<h2>Updated Resume✨</h2>
+<a href="https://drive.google.com/file/d/1NMPB5zDfqn0JKKu6qtkLMlK4zP275NDA/view?usp=sharing">Ahmed Alamin-Android Developer.pdf</a> 💼<br />
+
+
+
 <h2>Work on mastering these topics with best practices ✨</h2>
 
 - master kotlin language 
