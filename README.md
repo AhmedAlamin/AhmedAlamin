@@ -12,7 +12,7 @@ Currently I am available for hire (remotely, preferabily contracts or 35h/week).
 ## Summary About Me
 - Created, maintained and published native Android applications using Java and Kotlin.
 - Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
-- Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
+- Using Kotlin as programming language and using MVC, MVP, MVVM, MVI patterns.
 
 
 <h2>Updated Resume✨</h2>
