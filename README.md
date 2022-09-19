@@ -50,6 +50,7 @@ Currently I am available for hire (remotely, preferabily contracts or 35h/week).
 - master jetpack compose
 - agile technologies 
 - Content management System
+- Android design principles and interface guidelines
 
 
 &ensp; <h2>Find me around the web 🌎:</h2> <a href="https://github.com/ahmedalamin"><img align="left" width="150" height="150"  src="https://user-images.githubusercontent.com/18472540/190840509-82d7862c-85af-47ed-a947-afb634e69f5d.gif"></a>
