@@ -24,7 +24,7 @@ Currently I am available for hire (remotely, preferabily contracts or 35h/week).
 
 - master kotlin language 
 - English (Rosita Stone - The American English - Camply in advanced level)
-- leetcode (Dialy 1.5 hours for each)
+- leetcode
 - master Git
 - master GitHub and make it professional 
 - master Fundamentals of android 
