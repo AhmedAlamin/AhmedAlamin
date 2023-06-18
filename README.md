@@ -58,10 +58,6 @@ Currently I am available for hire (remotely, preferabily contracts or 35h/week).
 &emsp; You can find me on <a href="https://twitter.com/AhmedoAlamin">Twitter</a> 💼<br />
 &emsp; You can find me on <a href="https://leetcode.com/AhmedAlamin/">LeetCode</a> 💼<br /><br /><br /><br />
 
-# Places I Love 
-I'm in love with this place
- <a href="https://github.com/ahmedalamin"><img align="left" width="1024" height="768"  src="https://user-images.githubusercontent.com/18472540/190843006-1a42d077-73a2-44e3-96ce-0e4694a1b2a0.jpg"></a>
- <a href="https://www.google.com.eg/search?q=aswan&hl=ar&sxsrf=ALiCzsaowJXUQPP_Ji45rkbUUjuoPsuLaw%3A1663394757377&source=hp&ei=xWMlY9zMFNCT8gKM_6yABg&iflsig=AJiK0e8AAAAAYyVx1ViMpYS-7qYFX3mRcdgltKMXJXyR&ved=0ahUKEwicw4etlJv6AhXQiVwKHYw_C2AQ4dUDCAc&uact=5&oq=aswan&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQguEMsBMgQILhBDMgUIABDLATIKCC4QxwEQrwEQQzIFCAAQywEyBQguEIAEMgUIABDLATIFCAAQgAQyCwguEMcBEK8BEMsBOgYIIxAnEBM6CgguEMcBENEDECc6BAgAEEM6CwgAEIAEELEDEIMBOggIABCABBCxAzoHCAAQgAQQCjoECAAQHjoOCC4QgAQQxwEQ0QMQ1AI6CAguEIAEENQCUABYjR1ggh9oAXAAeAGAAXKIAdkGkgEDMS43mAEAoAEB&sclient=gws-wiz">Take a look at Aswan City📌</a>
 
 
 <h2>Thanks</h2>
